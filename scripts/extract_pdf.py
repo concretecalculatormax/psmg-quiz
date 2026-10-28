@@ -13,6 +13,11 @@ plain-text layout:
     bold 11pt      "Answer Key — Topic N ..."   followed by "n → X" cells
     bold 12pt      "Abbreviations & Full Forms" start of the glossary appendix
 
+Topics written by hand for presentations that are not in the PDF live in
+data/extra-topics.json. They are appended after the PDF topics, their glossary
+groups after the PDF glossary, and each one's "coversPending" entry is removed
+from the pending list.
+
 The script validates everything it extracts and exits non-zero on any problem,
 so a bad parse never silently reaches the app.
 """
@@ -32,8 +37,9 @@ import pymupdf
 ROOT = Path(__file__).resolve().parent.parent
 DEFAULT_PDF = ROOT / "42nd PSMG Comprehensive Exam — MCQ Bank.pdf"
 DEFAULT_OUT = ROOT / "data" / "quiz-bank.json"
+EXTRA_TOPICS = ROOT / "data" / "extra-topics.json"
 
-EXPECTED_TOPICS = 23
+EXPECTED_TOPICS = 23  # in the PDF; extra topics are counted on top
 QUESTIONS_PER_TOPIC = 50
 OPTION_KEYS = ("A", "B", "C", "D")
 
@@ -342,11 +348,49 @@ def build_topics(raw_topics: list[dict]) -> list[dict]:
     return topics
 
 
-def validate(topics: list[dict], glossary: list[dict]) -> list[str]:
+def merge_extra(path: Path, topics: list[dict], glossary: list[dict], pending: list[str]) -> list[str]:
+    """Append the hand-written topics in `path`; returns the remaining pending topics."""
+    extra = json.loads(path.read_text(encoding="utf-8"))["topics"]
+    covered = set()
+    for t in extra:
+        questions = [
+            {
+                "id": f"t{t['id']:02d}-q{q['number']:02d}",
+                "number": q["number"],
+                "text": q["text"],
+                "options": q["options"],
+                "answer": q["answer"],
+            }
+            for q in t["questions"]
+        ]
+        topics.append(
+            {
+                "id": t["id"],
+                "slug": f"{t['id']:02d}-{slugify(t['title'])}",
+                "title": t["title"],
+                "category": t["category"],
+                "week": t["week"],
+                "group": t["group"],
+                "presenter": t["presenter"],
+                "date": t["date"],
+                "summary": t["summary"],
+                "questions": questions,
+                "_answerKeySize": len(questions),
+            }
+        )
+        glossary.append({"title": t["glossaryTitle"], "topicId": t["id"], "entries": t["glossary"]})
+        if t.get("coversPending"):
+            if t["coversPending"] not in pending:
+                raise ValueError(f"Extra topic {t['id']}: {t['coversPending']!r} is not a pending topic")
+            covered.add(t["coversPending"])
+    return [p for p in pending if p not in covered]
+
+
+def validate(topics: list[dict], glossary: list[dict], expected_count: int) -> list[str]:
     errors: list[str] = []
     ids = [t["id"] for t in topics]
-    if ids != list(range(1, EXPECTED_TOPICS + 1)):
-        errors.append(f"Expected topics 1..{EXPECTED_TOPICS}, got {ids}")
+    if ids != list(range(1, expected_count + 1)):
+        errors.append(f"Expected topics 1..{expected_count}, got {ids}")
     slugs = [t["slug"] for t in topics]
     if len(set(slugs)) != len(slugs):
         errors.append("Duplicate topic slugs")
@@ -401,6 +445,7 @@ def main() -> int:
     parser = argparse.ArgumentParser(description=__doc__.split("\n\n")[0])
     parser.add_argument("pdf", nargs="?", type=Path, default=DEFAULT_PDF)
     parser.add_argument("--out", type=Path, default=DEFAULT_OUT)
+    parser.add_argument("--extra", type=Path, default=EXTRA_TOPICS)
     args = parser.parse_args()
 
     lines = read_lines(args.pdf)
@@ -410,8 +455,12 @@ def main() -> int:
     raw_topics = parse_mcq_section(lines[:split])
     topics = build_topics(raw_topics)
     glossary = parse_glossary(lines[split:], {t["id"] for t in topics})
+    if len(topics) != EXPECTED_TOPICS:
+        print(f"Validation failed: expected {EXPECTED_TOPICS} topics in the PDF, got {len(topics)}", file=sys.stderr)
+        return 1
+    pending = merge_extra(args.extra, topics, glossary, parse_pending_topics(lines[:split]))
 
-    errors = validate(topics, glossary)
+    errors = validate(topics, glossary, len(topics))
     if errors:
         print(f"Validation failed with {len(errors)} problem(s):", file=sys.stderr)
         for e in errors:
@@ -421,7 +470,7 @@ def main() -> int:
     bank = {
         "title": title_line,
         "source": args.pdf.name,
-        "pendingTopics": parse_pending_topics(lines[:split]),
+        "pendingTopics": pending,
         "topics": topics,
         "glossary": glossary,
     }

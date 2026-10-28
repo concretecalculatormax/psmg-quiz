@@ -32,8 +32,6 @@
     "PPRA Rules & e-Procurement",
     "Punjab Finance Act 2026",
     "Rules of Business 2011",
-    "Summaries",
-    "PEEDA Inquiries",
     "e-FOAS",
     "Tax Returns",
     "Promotion Policy & PERs",
@@ -14139,6 +14137,1232 @@
           "answer": "C"
         }
       ]
+    },
+    {
+      "id": 24,
+      "slug": "24-office-management-filing-system-noting-drafting-and-official-summary-writing",
+      "title": "Office Management, Filing System, Noting, Drafting & Official Summary Writing",
+      "category": "session",
+      "week": 8,
+      "group": null,
+      "presenter": "Muhammad Aslam Rao (PMS), Addl. Secretary (R)",
+      "date": "2026-10-26",
+      "summary": "e-FOAS in brief, the five functions of office management, the filing system (opening, register, portions, recording and classification), noting, drafting, summary writing, and the forms of official communication with models.",
+      "questions": [
+        {
+          "id": "t24-q01",
+          "number": 1,
+          "text": "e-FOAS stands for:",
+          "options": {
+            "A": "Electronic File Operation and Approval Service",
+            "B": "e-Office Filing and Archiving Scheme",
+            "C": "Electronic Federal Office Administration System",
+            "D": "e-Filing and Office Automation System"
+          },
+          "answer": "D"
+        },
+        {
+          "id": "t24-q02",
+          "number": 2,
+          "text": "e-FOAS was built by:",
+          "options": {
+            "A": "Punjab Information Technology Board (PITB)",
+            "B": "NADRA",
+            "C": "Services & General Administration Department",
+            "D": "Punjab Revenue Authority"
+          },
+          "answer": "A"
+        },
+        {
+          "id": "t24-q03",
+          "number": 3,
+          "text": "The stated objective of e-FOAS is to:",
+          "options": {
+            "A": "Replace government staff with automated software",
+            "B": "Outsource record-keeping to private firms",
+            "C": "Transform the conventional paper-based government workflow into a secure, paperless digital environment",
+            "D": "Digitise only the dispatch register of each office"
+          },
+          "answer": "C"
+        },
+        {
+          "id": "t24-q04",
+          "number": 4,
+          "text": "Under e-FOAS, official record is secured by:",
+          "options": {
+            "A": "QR code and OCR encryption",
+            "B": "Duplicate paper files kept in a strong room",
+            "C": "Biometric locks on file cabinets",
+            "D": "Weekly backups on CDs"
+          },
+          "answer": "A"
+        },
+        {
+          "id": "t24-q05",
+          "number": 5,
+          "text": "According to the presentation, e-FOAS has historically cut the government's stationery budget by up to:",
+          "options": {
+            "A": "25%",
+            "B": "80%",
+            "C": "50%",
+            "D": "95%"
+          },
+          "answer": "B"
+        },
+        {
+          "id": "t24-q06",
+          "number": 6,
+          "text": "e-FOAS generates automated delay alerts when:",
+          "options": {
+            "A": "A file is printed",
+            "B": "A user logs in from a mobile phone",
+            "C": "A draft contains spelling mistakes",
+            "D": "A file sits on a desk for too long"
+          },
+          "answer": "D"
+        },
+        {
+          "id": "t24-q07",
+          "number": 7,
+          "text": "Why does e-FOAS eliminate \"lost\" files?",
+          "options": {
+            "A": "Record is stored digitally, so misplacement, tampering, hiding or pilfering of files is done away with",
+            "B": "Every file is photocopied three times",
+            "C": "Files are kept with the Secretary personally",
+            "D": "Files are not allowed to move between offices"
+          },
+          "answer": "A"
+        },
+        {
+          "id": "t24-q08",
+          "number": 8,
+          "text": "Office management is defined as a technique to achieve efficient and effective performance through:",
+          "options": {
+            "A": "Budgeting, auditing, reporting and accounting",
+            "B": "Noting, drafting, filing and dispatch",
+            "C": "Recruiting, training, promoting and retiring",
+            "D": "Planning, organizing, staffing, directing and controlling"
+          },
+          "answer": "D"
+        },
+        {
+          "id": "t24-q09",
+          "number": 9,
+          "text": "According to the presentation, success in office management depends on efficiency, which links with:",
+          "options": {
+            "A": "Resources and uncompromising discipline",
+            "B": "Political support alone",
+            "C": "The size of the office building",
+            "D": "The number of staff alone"
+          },
+          "answer": "A"
+        },
+        {
+          "id": "t24-q10",
+          "number": 10,
+          "text": "Planning in office management requires:",
+          "options": {
+            "A": "Logical thinking, well-founded imagination and sound judgement rather than guesswork",
+            "B": "Guesswork and intuition",
+            "C": "Copying another department's plans",
+            "D": "Waiting for instructions from higher offices"
+          },
+          "answer": "A"
+        },
+        {
+          "id": "t24-q11",
+          "number": 11,
+          "text": "Setting up annual activity schedules to achieve goals is part of which function?",
+          "options": {
+            "A": "Planning",
+            "B": "Controlling",
+            "C": "Staffing",
+            "D": "Directing"
+          },
+          "answer": "A"
+        },
+        {
+          "id": "t24-q12",
+          "number": 12,
+          "text": "Displaying the organizational chart at a conspicuous place and notifying job descriptions of each tier fall under:",
+          "options": {
+            "A": "Planning",
+            "B": "Controlling",
+            "C": "Organizing",
+            "D": "Directing"
+          },
+          "answer": "C"
+        },
+        {
+          "id": "t24-q13",
+          "number": 13,
+          "text": "\"Putting the right person in the right job at the right time\" relates to which function?",
+          "options": {
+            "A": "Organizing",
+            "B": "Directing",
+            "C": "Staffing",
+            "D": "Controlling"
+          },
+          "answer": "C"
+        },
+        {
+          "id": "t24-q14",
+          "number": 14,
+          "text": "The principle of unity of command means:",
+          "options": {
+            "A": "All officers sign every file jointly",
+            "B": "One department controls all other departments",
+            "C": "Orders are issued only in writing",
+            "D": "An employee has only one supervisor, to avoid confusion"
+          },
+          "answer": "D"
+        },
+        {
+          "id": "t24-q15",
+          "number": 15,
+          "text": "According to the presentation, a Director should focus on ______, while a Manager should focus on ______.",
+          "options": {
+            "A": "Daily tasks; long-term goals",
+            "B": "Recruitment; budgeting",
+            "C": "The overall goals of the organization; the tasks he and his team must complete",
+            "D": "Public relations; internal audit"
+          },
+          "answer": "C"
+        },
+        {
+          "id": "t24-q16",
+          "number": 16,
+          "text": "Which of the following is NOT listed as part of directing?",
+          "options": {
+            "A": "Giving instructions to subordinates in the right direction",
+            "B": "Assigning duties and supervising work",
+            "C": "Motivating employees through communication and coordination",
+            "D": "Framing recruitment rules for the department"
+          },
+          "answer": "D"
+        },
+        {
+          "id": "t24-q17",
+          "number": 17,
+          "text": "In controlling, the controller (AD/DG) monitors performance mainly through:",
+          "options": {
+            "A": "Annual reports alone",
+            "B": "Complaints from the public alone",
+            "C": "Visits and surprise visits, teams, committees and other sources",
+            "D": "Social media posts"
+          },
+          "answer": "C"
+        },
+        {
+          "id": "t24-q18",
+          "number": 18,
+          "text": "Which of the following is NOT one of the listed fallouts (results) of office management?",
+          "options": {
+            "A": "Achievement of fixed targets",
+            "B": "Increase in file pendency",
+            "C": "Minimization of costs",
+            "D": "Betterment in public relations"
+          },
+          "answer": "B"
+        },
+        {
+          "id": "t24-q19",
+          "number": 19,
+          "text": "In the office filing system, a file is:",
+          "options": {
+            "A": "Any loose paper received in the office",
+            "B": "A register of incoming dak",
+            "C": "A bundle of unrelated papers of one year",
+            "D": "A set of letters and documents on a particular subject, arranged in a proper folder or cover and assigned a number"
+          },
+          "answer": "D"
+        },
+        {
+          "id": "t24-q20",
+          "number": 20,
+          "text": "The two main portions of a file are:",
+          "options": {
+            "A": "Index and appendix",
+            "B": "Correspondence portion and noting portion",
+            "C": "Draft and fair copy",
+            "D": "Receipt and dispatch"
+          },
+          "answer": "B"
+        },
+        {
+          "id": "t24-q21",
+          "number": 21,
+          "text": "Which rule applies when opening a new file?",
+          "options": {
+            "A": "One file for each officer",
+            "B": "One file for all subjects of a year",
+            "C": "One subject for one file",
+            "D": "One file for each month"
+          },
+          "answer": "C"
+        },
+        {
+          "id": "t24-q22",
+          "number": 22,
+          "text": "A new file is opened in the:",
+          "options": {
+            "A": "Dak diary of the Secretary",
+            "B": "Cash book",
+            "C": "File Register, maintained section-wise or branch-wise",
+            "D": "Attendance register"
+          },
+          "answer": "C"
+        },
+        {
+          "id": "t24-q23",
+          "number": 23,
+          "text": "A file register contains:",
+          "options": {
+            "A": "Serial number, subject and file number (with main head and sub-head)",
+            "B": "Names of all visitors",
+            "C": "Daily attendance of staff",
+            "D": "Pay and allowances of the branch"
+          },
+          "answer": "A"
+        },
+        {
+          "id": "t24-q24",
+          "number": 24,
+          "text": "In the specimen file register, the file number DAO/MN/2-4/23 relates to:",
+          "options": {
+            "A": "Main head 4 (Assembly Business), opened in 2002",
+            "B": "Main head 1 (Appointments), opened in 2024",
+            "C": "Main head 3 (Inquiries), opened in 2023",
+            "D": "Main head 2 (Posting/Transfer), sub-head 4, opened in 2023"
+          },
+          "answer": "D"
+        },
+        {
+          "id": "t24-q25",
+          "number": 25,
+          "text": "The page limit for the correspondence portion of a file is about:",
+          "options": {
+            "A": "250 to 300 pages",
+            "B": "50 pages",
+            "C": "100 pages",
+            "D": "1,000 pages"
+          },
+          "answer": "A"
+        },
+        {
+          "id": "t24-q26",
+          "number": 26,
+          "text": "A part file is also known as a:",
+          "options": {
+            "A": "Provisional file",
+            "B": "Linked file",
+            "C": "Permanent file",
+            "D": "Dead file"
+          },
+          "answer": "A"
+        },
+        {
+          "id": "t24-q27",
+          "number": 27,
+          "text": "A linked file is:",
+          "options": {
+            "A": "A file sent to the record room",
+            "B": "A file stored only in e-FOAS",
+            "C": "Any other file having related material",
+            "D": "A file opened on the same date"
+          },
+          "answer": "C"
+        },
+        {
+          "id": "t24-q28",
+          "number": 28,
+          "text": "Which of the following belongs to the noting portion rather than the correspondence portion?",
+          "options": {
+            "A": "Volumes of files",
+            "B": "Amalgamation of files",
+            "C": "Use of red ink",
+            "D": "Page limit of 250/300 pages"
+          },
+          "answer": "C"
+        },
+        {
+          "id": "t24-q29",
+          "number": 29,
+          "text": "When arranging papers for a case, which comes first?",
+          "options": {
+            "A": "Precedents or policy",
+            "B": "Files of previous proceedings",
+            "C": "Correspondence part containing the PUC",
+            "D": "Notes on the case"
+          },
+          "answer": "D"
+        },
+        {
+          "id": "t24-q30",
+          "number": 30,
+          "text": "Which of the following is NOT a step in recording a file?",
+          "options": {
+            "A": "Taking extracts of decisions, orders and advice",
+            "B": "Sending the file to the press for publication",
+            "C": "Ensuring that no further action is required",
+            "D": "Determining the classification of the file"
+          },
+          "answer": "B"
+        },
+        {
+          "id": "t24-q31",
+          "number": 31,
+          "text": "Category-A files are:",
+          "options": {
+            "A": "Permanent files not to be printed",
+            "B": "Permanent files to be printed",
+            "C": "Files with a life of 10 to 15 years",
+            "D": "Files with a life of up to 10 years"
+          },
+          "answer": "B"
+        },
+        {
+          "id": "t24-q32",
+          "number": 32,
+          "text": "Category-D files have a life of:",
+          "options": {
+            "A": "10 to 15 years",
+            "B": "Permanent, to be printed",
+            "C": "Up to 10 years",
+            "D": "Permanent, not to be printed"
+          },
+          "answer": "C"
+        },
+        {
+          "id": "t24-q33",
+          "number": 33,
+          "text": "PUC stands for:",
+          "options": {
+            "A": "Public Utility Complaint",
+            "B": "Previous Unit Correspondence",
+            "C": "Personal Use Certificate",
+            "D": "Paper Under Consideration"
+          },
+          "answer": "D"
+        },
+        {
+          "id": "t24-q34",
+          "number": 34,
+          "text": "The abbreviation N.F.A on a file means:",
+          "options": {
+            "A": "Note for approval",
+            "B": "No further action",
+            "C": "Not for audit",
+            "D": "New file allotted"
+          },
+          "answer": "B"
+        },
+        {
+          "id": "t24-q35",
+          "number": 35,
+          "text": "The purpose of noting on a file is to:",
+          "options": {
+            "A": "Replace the correspondence portion",
+            "B": "Record the contribution of each tier for future evidence",
+            "C": "Keep the matter secret from senior officers",
+            "D": "Avoid writing the final draft"
+          },
+          "answer": "B"
+        },
+        {
+          "id": "t24-q36",
+          "number": 36,
+          "text": "Which of the following is NOT part of the modus operandi for noting?",
+          "options": {
+            "A": "Reading the passage carefully",
+            "B": "Adding personal opinions to strengthen the passage",
+            "C": "Underlining important sentences",
+            "D": "Organizing points in a logical order"
+          },
+          "answer": "B"
+        },
+        {
+          "id": "t24-q37",
+          "number": 37,
+          "text": "According to the presentation, which draft may be signed and issued?",
+          "options": {
+            "A": "Any draft prepared by the dealing clerk",
+            "B": "The first draft, before it is seen by the authority",
+            "C": "Any of several drafts, at the issuer's choice",
+            "D": "Only the finalized draft approved by the authority"
+          },
+          "answer": "D"
+        },
+        {
+          "id": "t24-q38",
+          "number": 38,
+          "text": "Among the qualities of good drafting, \"correctness\" means:",
+          "options": {
+            "A": "Using as many words as possible",
+            "B": "Being grammatically accurate",
+            "C": "Copying the previous draft word for word",
+            "D": "Writing in the passive voice only"
+          },
+          "answer": "B"
+        },
+        {
+          "id": "t24-q39",
+          "number": 39,
+          "text": "Among the qualities of an official summary, \"objectivity\" means:",
+          "options": {
+            "A": "Leaving out personal opinions or judgements",
+            "B": "Including the writer's own view on every point",
+            "C": "Reproducing the original text in full",
+            "D": "Using emotional language to persuade"
+          },
+          "answer": "A"
+        },
+        {
+          "id": "t24-q40",
+          "number": 40,
+          "text": "An official letter is used for correspondence with:",
+          "options": {
+            "A": "Federal or provincial governments, Pakistan missions abroad, foreign missions in Pakistan, the High Court, public bodies and individuals",
+            "B": "Only subordinate offices of the same department",
+            "C": "Only the Finance Department, for advice",
+            "D": "Only officers, for their personal attention"
+          },
+          "answer": "A"
+        },
+        {
+          "id": "t24-q41",
+          "number": 41,
+          "text": "A memorandum is used for correspondence:",
+          "options": {
+            "A": "With foreign missions in Pakistan",
+            "B": "With the general public through the press",
+            "C": "With subordinate or equal-status offices within the same government, and between Secretariat departments",
+            "D": "Only with the High Court"
+          },
+          "answer": "C"
+        },
+        {
+          "id": "t24-q42",
+          "number": 42,
+          "text": "A demi-official (D.O.) letter is used:",
+          "options": {
+            "A": "To publish rules in the official gazette",
+            "B": "Between government officers, to draw personal attention for expeditious disposal of pending issues",
+            "C": "To transfer officials of Grade 15 and below",
+            "D": "To give wide publicity to government policy"
+          },
+          "answer": "B"
+        },
+        {
+          "id": "t24-q43",
+          "number": 43,
+          "text": "An un-official (U.O.) letter is mainly used for:",
+          "options": {
+            "A": "Appointment of officers of Grade 16 and above",
+            "B": "Interdepartmental reference for information or advice, particularly to the Finance Department",
+            "C": "Correspondence with foreign governments",
+            "D": "Sending a copy to additional addressees"
+          },
+          "answer": "B"
+        },
+        {
+          "id": "t24-q44",
+          "number": 44,
+          "text": "Appointments, postings and transfers of officers of Grade 16 and above are issued through a:",
+          "options": {
+            "A": "Office order",
+            "B": "Press release",
+            "C": "U.O. letter",
+            "D": "Notification"
+          },
+          "answer": "D"
+        },
+        {
+          "id": "t24-q45",
+          "number": 45,
+          "text": "An office order is used for:",
+          "options": {
+            "A": "Publishing ordinances and bills in the gazette",
+            "B": "Postings of officers of Grade 16 and above",
+            "C": "Appointments, promotions, leave and similar matters of subordinate staff; its scope is restricted",
+            "D": "Interdepartmental advice from the Finance Department"
+          },
+          "answer": "C"
+        },
+        {
+          "id": "t24-q46",
+          "number": 46,
+          "text": "An endorsement is used when:",
+          "options": {
+            "A": "A file is closed and sent to the record room",
+            "B": "A draft is returned for correction",
+            "C": "An officer is given additional charge",
+            "D": "A copy of a communication is to be sent to others in addition to the original addressee"
+          },
+          "answer": "D"
+        },
+        {
+          "id": "t24-q47",
+          "number": 47,
+          "text": "A press communique or press release is issued:",
+          "options": {
+            "A": "To give wide publicity to a government decision or policy through the press/DGPR, with the approval of the Minister-in-charge",
+            "B": "To convey a decision only to the officer concerned",
+            "C": "To transfer a Junior Clerk",
+            "D": "To seek advice from another department"
+          },
+          "answer": "A"
+        },
+        {
+          "id": "t24-q48",
+          "number": 48,
+          "text": "In a D.O. letter, the salutation \"My dear Sir\" is used when writing to:",
+          "options": {
+            "A": "An officer of equal rank",
+            "B": "A junior official",
+            "C": "An officer of senior status",
+            "D": "A member of the public"
+          },
+          "answer": "C"
+        },
+        {
+          "id": "t24-q49",
+          "number": 49,
+          "text": "In the model noting, references such as \"PUC at page 10-11/C\" and \"Para 2/N\" mean:",
+          "options": {
+            "A": "Copy number 10 and note number 2",
+            "B": "Pages of the correspondence portion and a paragraph of the noting portion",
+            "C": "Chapter 10 of the rules and note 2 of the manual",
+            "D": "Confidential page 10 and new paragraph 2"
+          },
+          "answer": "B"
+        },
+        {
+          "id": "t24-q50",
+          "number": 50,
+          "text": "In the model summary for the Chief Minister, the Secretary seeks authority to sign the Order of Inquiry on the CM's behalf under:",
+          "options": {
+            "A": "Section 26 of the PEEDA Act 2006",
+            "B": "Section 19 of the PEEDA Act 2006",
+            "C": "Section 144 of the CrPC",
+            "D": "Section 5(2) of the PEEDA Act 2006"
+          },
+          "answer": "D"
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "slug": "25-peeda-act-2006-and-conducting-departmental-inquiries",
+      "title": "PEEDA Act 2006 & Conducting Departmental Inquiries",
+      "category": "session",
+      "week": 8,
+      "group": null,
+      "presenter": "Dr. Muhammad Zahid Mian",
+      "date": "2026-10-26",
+      "summary": "Evolution from the E&D Rules and PRSO 2000, definitions, grounds and the 14 penalties, competent authorities, the procedure in sections 5 to 26, time limits, allied laws, natural justice, conducting an inquiry, why orders are set aside, and case studies.",
+      "questions": [
+        {
+          "id": "t25-q01",
+          "number": 1,
+          "text": "The PEEDA Act 2006 is Act ______ of 2006, published in the Punjab Gazette on ______.",
+          "options": {
+            "A": "IV; 2 October 2006",
+            "B": "XV; 13 October 2006",
+            "C": "XXV; 30 July 2006",
+            "D": "XII; 17 October 2006"
+          },
+          "answer": "D"
+        },
+        {
+          "id": "t25-q02",
+          "number": 2,
+          "text": "Section 26 of the PEEDA Act 2006 repealed the:",
+          "options": {
+            "A": "Punjab Removal from Service (Special Powers) Ordinance 2000",
+            "B": "Punjab Civil Servants Act 1974",
+            "C": "Punjab Civil Servants (E&D) Rules 1975",
+            "D": "National Accountability Ordinance 1999"
+          },
+          "answer": "A"
+        },
+        {
+          "id": "t25-q03",
+          "number": 3,
+          "text": "Section 2 of PEEDA contains how many definitions?",
+          "options": {
+            "A": "9",
+            "B": "12",
+            "C": "26",
+            "D": "16"
+          },
+          "answer": "D"
+        },
+        {
+          "id": "t25-q04",
+          "number": 4,
+          "text": "PEEDA provides 14 penalties in total. How are they divided?",
+          "options": {
+            "A": "5 minor, 6 major and 3 after retirement",
+            "B": "7 minor and 7 major",
+            "C": "6 minor, 5 major and 3 after retirement",
+            "D": "4 minor, 6 major and 4 after retirement"
+          },
+          "answer": "A"
+        },
+        {
+          "id": "t25-q05",
+          "number": 5,
+          "text": "Under s.2(f)(ii), an officer authorised by the Chief Minister to act as competent authority must not be inferior in rank to:",
+          "options": {
+            "A": "The accused",
+            "B": "The inquiry officer",
+            "C": "The appointing authority prescribed for the post held by the accused",
+            "D": "The Chief Secretary"
+          },
+          "answer": "C"
+        },
+        {
+          "id": "t25-q06",
+          "number": 6,
+          "text": "Where two or more employees are proceeded against jointly, the competent authority for all of them is:",
+          "options": {
+            "A": "The competent authority of the junior-most accused",
+            "B": "The Chief Minister in every case",
+            "C": "The competent authority of the senior-most accused",
+            "D": "Whoever the complainant chooses"
+          },
+          "answer": "C"
+        },
+        {
+          "id": "t25-q07",
+          "number": 7,
+          "text": "If a competent authority (other than the CM) has an interest in the result of the proceedings, it must:",
+          "options": {
+            "A": "Not proceed, and report the matter to the next higher authority, who authorises another officer of corresponding rank",
+            "B": "Proceed, but record its interest on file",
+            "C": "Hand the case to the inquiry officer to decide",
+            "D": "Close the case for want of an authority"
+          },
+          "answer": "A"
+        },
+        {
+          "id": "t25-q08",
+          "number": 8,
+          "text": "Which of the following is one of the six limbs of \"corruption\" under s.2(g)?",
+          "options": {
+            "A": "Having a reputation of being corrupt",
+            "B": "Failing a departmental examination three times",
+            "C": "Absence from duty without leave",
+            "D": "Disclosing official secrets"
+          },
+          "answer": "A"
+        },
+        {
+          "id": "t25-q09",
+          "number": 9,
+          "text": "Which of the following is NOT benami, according to the presentation?",
+          "options": {
+            "A": "A house in the driver's name, paid for and lived in by the officer",
+            "B": "A plot in a jobless son's name, bought with cash deposited a week earlier",
+            "C": "A car registered to the peon but used and paid for by the officer",
+            "D": "A flat in the officer's wife's name, bought from her own declared inheritance"
+          },
+          "answer": "D"
+        },
+        {
+          "id": "t25-q10",
+          "number": 10,
+          "text": "What is the key test for identifying a benamidar?",
+          "options": {
+            "A": "The source of the money: who actually paid",
+            "B": "Whose name appears on the registry",
+            "C": "Where the property is located",
+            "D": "Whether the property was bought in cash"
+          },
+          "answer": "A"
+        },
+        {
+          "id": "t25-q11",
+          "number": 11,
+          "text": "An official sells flour from the ration store and shows it as \"consumed\". Under the presentation's classification, this is:",
+          "options": {
+            "A": "Dishonest misappropriation of property found by chance",
+            "B": "Misuse of government property that is later returned",
+            "C": "Inefficiency",
+            "D": "Embezzlement (breach of trust over property entrusted to the post)"
+          },
+          "answer": "D"
+        },
+        {
+          "id": "t25-q12",
+          "number": 12,
+          "text": "Under s.2(k), \"inefficiency\" includes failure to qualify the departmental examination in:",
+          "options": {
+            "A": "Two consecutive attempts",
+            "B": "Three consecutive attempts",
+            "C": "Five attempts in total",
+            "D": "The first attempt"
+          },
+          "answer": "B"
+        },
+        {
+          "id": "t25-q13",
+          "number": 13,
+          "text": "After the 2012 amendment, the definition of \"employee\" in s.2(h)(ii) does NOT include:",
+          "options": {
+            "A": "Employees of autonomous bodies",
+            "B": "Judges and employees of the Lahore High Court and its subordinate courts, and employees of Police",
+            "C": "Employees of tribunals set up by the Government",
+            "D": "Holders of civil posts in the province"
+          },
+          "answer": "B"
+        },
+        {
+          "id": "t25-q14",
+          "number": 14,
+          "text": "Acquittal by a court as a result of compounding an offence involving moral turpitude or affecting the human body is treated under PEEDA as:",
+          "options": {
+            "A": "Full exoneration, with automatic reinstatement",
+            "B": "Misconduct under s.2(n)(viii)",
+            "C": "Corruption under s.2(g)",
+            "D": "Inefficiency under s.2(k)"
+          },
+          "answer": "B"
+        },
+        {
+          "id": "t25-q15",
+          "number": 15,
+          "text": "Section 3 of PEEDA provides how many grounds for proceedings?",
+          "options": {
+            "A": "Three: inefficiency, misconduct and corruption",
+            "B": "Four: inefficiency, misconduct, corruption, and subversion/disclosure of official secrets",
+            "C": "Two: misconduct and corruption",
+            "D": "Five: adding absence from duty as a separate ground"
+          },
+          "answer": "B"
+        },
+        {
+          "id": "t25-q16",
+          "number": 16,
+          "text": "The minor penalty of fine may not exceed:",
+          "options": {
+            "A": "Three months' basic pay",
+            "B": "Rs 50,000",
+            "C": "One month's basic pay",
+            "D": "One year's increments"
+          },
+          "answer": "C"
+        },
+        {
+          "id": "t25-q17",
+          "number": 17,
+          "text": "The minor penalties of withholding increments and reduction to lower stages are capped at:",
+          "options": {
+            "A": "3 years and 3 stages respectively",
+            "B": "5 years and 5 stages respectively",
+            "C": "10 years and 2 stages respectively",
+            "D": "2 years and 5 stages respectively"
+          },
+          "answer": "B"
+        },
+        {
+          "id": "t25-q18",
+          "number": 18,
+          "text": "Which of the following is a MAJOR penalty under s.4(1)(b)?",
+          "options": {
+            "A": "Censure",
+            "B": "Withholding of promotion for up to five years",
+            "C": "Fine up to one month's basic pay",
+            "D": "Forfeiture of past service for up to five years"
+          },
+          "answer": "D"
+        },
+        {
+          "id": "t25-q19",
+          "number": 19,
+          "text": "What distinguishes dismissal from removal from service?",
+          "options": {
+            "A": "Removal is a minor penalty",
+            "B": "Dismissal disqualifies the employee from future government employment (s.4(2)); removal does not",
+            "C": "Dismissal can only be imposed on retired employees",
+            "D": "There is no difference under PEEDA"
+          },
+          "answer": "B"
+        },
+        {
+          "id": "t25-q20",
+          "number": 20,
+          "text": "According to the Guidebook cautions, compulsory retirement may be imposed only if the accused has:",
+          "options": {
+            "A": "Twenty years' service or more",
+            "B": "Five years' service or more",
+            "C": "Reached BS-18",
+            "D": "Been convicted by a court"
+          },
+          "answer": "A"
+        },
+        {
+          "id": "t25-q21",
+          "number": 21,
+          "text": "Where charges of grave corruption are proved, the law requires:",
+          "options": {
+            "A": "Censure",
+            "B": "Compulsory retirement only",
+            "C": "Dismissal from service, in addition to recovery, if any",
+            "D": "Any penalty the competent authority thinks fit"
+          },
+          "answer": "C"
+        },
+        {
+          "id": "t25-q22",
+          "number": 22,
+          "text": "Where absence from duty for more than one year is proved, the penalty must be:",
+          "options": {
+            "A": "Withholding of increments",
+            "B": "Recovery of pay for the period of absence",
+            "C": "Compulsory retirement, removal or dismissal from service",
+            "D": "Censure and treating the period as leave without pay"
+          },
+          "answer": "C"
+        },
+        {
+          "id": "t25-q23",
+          "number": 23,
+          "text": "The duty to pass a reasoned (speaking) order and supply a copy to the person affected comes from:",
+          "options": {
+            "A": "Section 193 of the PPC",
+            "B": "Article 212 of the Constitution",
+            "C": "Section 24-A of the Punjab General Clauses Act 1956",
+            "D": "Section 25 of the NAO 1999"
+          },
+          "answer": "C"
+        },
+        {
+          "id": "t25-q24",
+          "number": 24,
+          "text": "Under the PMS Rules 2004, the appointing authority for a BS-18 PMS officer is the:",
+          "options": {
+            "A": "Chief Minister",
+            "B": "Additional Chief Secretary",
+            "C": "Secretary Regulations",
+            "D": "Chief Secretary"
+          },
+          "answer": "D"
+        },
+        {
+          "id": "t25-q25",
+          "number": 25,
+          "text": "For a retired government employee, the competent authority under PEEDA is (S&GAD notification of 06.02.2007):",
+          "options": {
+            "A": "The Accountant General",
+            "B": "The appointing authority at the time of retirement",
+            "C": "The current head of the employee's last office",
+            "D": "The Punjab Service Tribunal"
+          },
+          "answer": "B"
+        },
+        {
+          "id": "t25-q26",
+          "number": 26,
+          "text": "A hearing officer may be appointed only where the competent authority is of the rank of:",
+          "options": {
+            "A": "Deputy Secretary or above",
+            "B": "Secretary to the Government of the Punjab or above",
+            "C": "BS-17 or above",
+            "D": "Any rank, if the accused agrees"
+          },
+          "answer": "B"
+        },
+        {
+          "id": "t25-q27",
+          "number": 27,
+          "text": "When an employee on deputation holds a post in BS-17 or above, the borrowing organisation must:",
+          "options": {
+            "A": "Return the employee before any inquiry",
+            "B": "Seek approval of the Service Tribunal",
+            "C": "Obtain prior approval of the lending organisation before taking action under PEEDA",
+            "D": "Proceed without informing the lending organisation"
+          },
+          "answer": "C"
+        },
+        {
+          "id": "t25-q28",
+          "number": 28,
+          "text": "Under the proviso to s.5(1)(a), no show cause or personal hearing is given in which case?",
+          "options": {
+            "A": "The employee is a BS-19 officer",
+            "B": "The employee has applied for leave",
+            "C": "The employee has been posted to another district",
+            "D": "The employee has entered into a plea bargain, or been convicted of corruption"
+          },
+          "answer": "D"
+        },
+        {
+          "id": "t25-q29",
+          "number": 29,
+          "text": "Under the proviso to s.5(1)(b), the competent authority SHALL dispense with the inquiry where the employee:",
+          "options": {
+            "A": "Denies the charges",
+            "B": "Has a long, clean service record",
+            "C": "Has been convicted of an offence other than corruption, or has been absent from duty without prior approval of leave",
+            "D": "Is due to retire within a year"
+          },
+          "answer": "C"
+        },
+        {
+          "id": "t25-q30",
+          "number": 30,
+          "text": "Under s.6, suspension is initially for 90 days. If it is not extended within 30 days of expiry of that period, the employee:",
+          "options": {
+            "A": "Stays suspended until the inquiry ends",
+            "B": "Is deemed to be dismissed",
+            "C": "Must apply to the Service Tribunal",
+            "D": "Is deemed to be reinstated"
+          },
+          "answer": "D"
+        },
+        {
+          "id": "t25-q31",
+          "number": 31,
+          "text": "Under PEEDA, the accused gets how long to submit a written defence or reply to a show cause notice?",
+          "options": {
+            "A": "Seven days (or any extended period the competent authority allows)",
+            "B": "Three days",
+            "C": "Fifteen days",
+            "D": "Thirty days"
+          },
+          "answer": "A"
+        },
+        {
+          "id": "t25-q32",
+          "number": 32,
+          "text": "After receiving the inquiry report, the competent authority (other than the CM) must decide the case within:",
+          "options": {
+            "A": "30 days",
+            "B": "90 days",
+            "C": "60 days (reduced from 90 by the 2017 amendment)",
+            "D": "One year"
+          },
+          "answer": "C"
+        },
+        {
+          "id": "t25-q33",
+          "number": 33,
+          "text": "In the show-cause route under s.7, the competent authority must decide the case within ______ of receiving the reply.",
+          "options": {
+            "A": "30 days",
+            "B": "60 days",
+            "C": "7 days",
+            "D": "90 days"
+          },
+          "answer": "D"
+        },
+        {
+          "id": "t25-q34",
+          "number": 34,
+          "text": "Under s.10(6), the inquiry officer must submit the report within 60 days. If the deadline is missed:",
+          "options": {
+            "A": "The inquiry is not vitiated merely because the time schedule was not observed",
+            "B": "The inquiry becomes void",
+            "C": "The accused is automatically exonerated",
+            "D": "The inquiry officer is liable to dismissal"
+          },
+          "answer": "A"
+        },
+        {
+          "id": "t25-q35",
+          "number": 35,
+          "text": "Are the inquiry officer's recommendations binding on the competent authority?",
+          "options": {
+            "A": "No, they are not binding",
+            "B": "Yes, always",
+            "C": "Only for minor penalties",
+            "D": "Only where the CM is the competent authority"
+          },
+          "answer": "A"
+        },
+        {
+          "id": "t25-q36",
+          "number": 36,
+          "text": "The inquiry officer must hear the case day to day. An adjournment may be granted only:",
+          "options": {
+            "A": "For reasons recorded in writing, and for not more than seven days",
+            "B": "On the accused's oral request, for any period",
+            "C": "Once a month",
+            "D": "With the Service Tribunal's permission"
+          },
+          "answer": "A"
+        },
+        {
+          "id": "t25-q37",
+          "number": 37,
+          "text": "Under s.11(2), PEEDA inquiry proceedings are deemed judicial proceedings within the meaning of:",
+          "options": {
+            "A": "Sections 161 and 409 of the PPC",
+            "B": "Sections 193 and 228 of the Pakistan Penal Code 1860",
+            "C": "Section 345 of the CrPC",
+            "D": "Article 164 of the Qanun-e-Shahadat Order"
+          },
+          "answer": "B"
+        },
+        {
+          "id": "t25-q38",
+          "number": 38,
+          "text": "Giving false evidence before an inquiry officer (s.193 PPC) is punishable with imprisonment of up to:",
+          "options": {
+            "A": "Six months",
+            "B": "Three years",
+            "C": "Fourteen years",
+            "D": "Seven years, and fine"
+          },
+          "answer": "D"
+        },
+        {
+          "id": "t25-q39",
+          "number": 39,
+          "text": "The departmental representative is appointed in the order of inquiry:",
+          "options": {
+            "A": "By name, chosen by the accused",
+            "B": "By designation, not by name",
+            "C": "By the Service Tribunal",
+            "D": "Only when the accused asks for one"
+          },
+          "answer": "B"
+        },
+        {
+          "id": "t25-q40",
+          "number": 40,
+          "text": "A departmental appeal under s.16 must be filed within ______ of communication of the order. If the CM imposed the penalty, the remedy is ______.",
+          "options": {
+            "A": "60 days; an appeal to the Chief Secretary",
+            "B": "90 days; a writ petition",
+            "C": "30 days; a review petition to the CM",
+            "D": "15 days; a revision to the Governor"
+          },
+          "answer": "C"
+        },
+        {
+          "id": "t25-q41",
+          "number": 41,
+          "text": "Revision under s.17 may be exercised within ______ of the order, by ______.",
+          "options": {
+            "A": "Thirty days; the accused only",
+            "B": "Two years; the Service Tribunal",
+            "C": "Ninety days; the inquiry officer",
+            "D": "One year; the CM, Chief Secretary, Administrative Secretary or any other appellate authority"
+          },
+          "answer": "D"
+        },
+        {
+          "id": "t25-q42",
+          "number": 42,
+          "text": "Under s.18, the accused may be represented by an advocate:",
+          "options": {
+            "A": "Only in proceedings before the Punjab Service Tribunal (s.19)",
+            "B": "At every stage of the proceedings",
+            "C": "Only during the personal hearing",
+            "D": "Only in inquiries into corruption"
+          },
+          "answer": "A"
+        },
+        {
+          "id": "t25-q43",
+          "number": 43,
+          "text": "If the appellate authority does not decide a departmental appeal within 60 days, the employee may appeal to the Punjab Service Tribunal within:",
+          "options": {
+            "A": "30 days of filing the departmental appeal",
+            "B": "One year of the original order",
+            "C": "No such option exists",
+            "D": "90 days of filing the departmental appeal"
+          },
+          "answer": "D"
+        },
+        {
+          "id": "t25-q44",
+          "number": 44,
+          "text": "Which employees cannot appeal to the Punjab Service Tribunal under s.19?",
+          "options": {
+            "A": "Retired government employees",
+            "B": "Employees of corporations and autonomous bodies covered by s.2(h)(i)",
+            "C": "Employees in BS-1 to BS-15",
+            "D": "Government servants in attached departments"
+          },
+          "answer": "B"
+        },
+        {
+          "id": "t25-q45",
+          "number": 45,
+          "text": "For a retired employee, PEEDA proceedings must be initiated within ______ of retirement and finalised within ______ of retirement.",
+          "options": {
+            "A": "One year; two years",
+            "B": "Six months; one year",
+            "C": "Two years; three years",
+            "D": "Ninety days; one year"
+          },
+          "answer": "A"
+        },
+        {
+          "id": "t25-q46",
+          "number": 46,
+          "text": "According to the presentation, a probe (fact-finding) should be held before framing charges when:",
+          "options": {
+            "A": "The offence and the offender are both known",
+            "B": "The accused admits the charges",
+            "C": "The offence or the offender (or both) is not known",
+            "D": "The accused is a retired employee"
+          },
+          "answer": "C"
+        },
+        {
+          "id": "t25-q47",
+          "number": 47,
+          "text": "What standard of proof applies in a departmental inquiry?",
+          "options": {
+            "A": "Proof beyond reasonable doubt",
+            "B": "Suspicion is enough",
+            "C": "Preponderance of evidence",
+            "D": "A confession is always required"
+          },
+          "answer": "C"
+        },
+        {
+          "id": "t25-q48",
+          "number": 48,
+          "text": "The maxims \"audi alteram partem\" and \"nemo judex in causa sua\" mean, respectively:",
+          "options": {
+            "A": "Hear the other side; no one should be a judge in their own cause",
+            "B": "Let the buyer beware; the law does not concern itself with trifles",
+            "C": "Guilty mind; guilty act",
+            "D": "By the fact itself; from the beginning"
+          },
+          "answer": "A"
+        },
+        {
+          "id": "t25-q49",
+          "number": 49,
+          "text": "Under the CrPC (s.225), an error or omission in a charge is material only if:",
+          "options": {
+            "A": "The charge has a spelling mistake",
+            "B": "The charge was typed rather than handwritten",
+            "C": "The inquiry took more than 60 days",
+            "D": "The accused was in fact misled and it caused a failure of justice"
+          },
+          "answer": "D"
+        },
+        {
+          "id": "t25-q50",
+          "number": 50,
+          "text": "Among the fatal flaws identified by the S&GAD letter of 10.09.2014, a competent authority that disagrees with the inquiry officer must:",
+          "options": {
+            "A": "Simply impose a higher penalty without notice",
+            "B": "Record reasons for differing, and state the proposed penalty in the show cause notice",
+            "C": "Send the case to the Service Tribunal",
+            "D": "Appoint the same inquiry officer again without reasons"
+          },
+          "answer": "B"
+        }
+      ]
     }
   ],
   "glossary": [
@@ -17287,6 +18511,450 @@
         {
           "abbr": "SSP",
           "full": "Senior Superintendent of Police",
+          "inferred": true,
+          "note": null
+        }
+      ]
+    },
+    {
+      "title": "Office Management, Filing, Noting & Drafting",
+      "topicId": 24,
+      "entries": [
+        {
+          "abbr": "A.D",
+          "full": "Administrative Department",
+          "inferred": false,
+          "note": null
+        },
+        {
+          "abbr": "A.S",
+          "full": "Additional Secretary",
+          "inferred": false,
+          "note": null
+        },
+        {
+          "abbr": "C.R",
+          "full": "Character Roll",
+          "inferred": false,
+          "note": null
+        },
+        {
+          "abbr": "Corr",
+          "full": "Correspondence",
+          "inferred": false,
+          "note": null
+        },
+        {
+          "abbr": "D.G",
+          "full": "Director General",
+          "inferred": false,
+          "note": null
+        },
+        {
+          "abbr": "D.O",
+          "full": "Demi-Official (letter)",
+          "inferred": false,
+          "note": null
+        },
+        {
+          "abbr": "D.S",
+          "full": "Deputy Secretary",
+          "inferred": false,
+          "note": null
+        },
+        {
+          "abbr": "DAO",
+          "full": "District Agriculture Officer",
+          "inferred": false,
+          "note": null
+        },
+        {
+          "abbr": "Deptt.",
+          "full": "Department",
+          "inferred": false,
+          "note": null
+        },
+        {
+          "abbr": "DFA",
+          "full": "Draft for Approval",
+          "inferred": false,
+          "note": null
+        },
+        {
+          "abbr": "DGPR",
+          "full": "Directorate General of Public Relations",
+          "inferred": true,
+          "note": null
+        },
+        {
+          "abbr": "DPC",
+          "full": "Departmental Promotion Committee",
+          "inferred": true,
+          "note": null
+        },
+        {
+          "abbr": "e-FOAS",
+          "full": "e-Filing and Office Automation System",
+          "inferred": false,
+          "note": null
+        },
+        {
+          "abbr": "Endst.",
+          "full": "Endorsement",
+          "inferred": true,
+          "note": null
+        },
+        {
+          "abbr": "EoL",
+          "full": "Extraordinary Leave",
+          "inferred": false,
+          "note": null
+        },
+        {
+          "abbr": "Estacode",
+          "full": "Establishment Code",
+          "inferred": false,
+          "note": null
+        },
+        {
+          "abbr": "F.D",
+          "full": "Finance Department",
+          "inferred": true,
+          "note": null
+        },
+        {
+          "abbr": "J.C",
+          "full": "Junior Clerk",
+          "inferred": false,
+          "note": null
+        },
+        {
+          "abbr": "L.F",
+          "full": "Linked File",
+          "inferred": false,
+          "note": null
+        },
+        {
+          "abbr": "L.P.R",
+          "full": "Leave Preparatory to Retirement",
+          "inferred": false,
+          "note": null
+        },
+        {
+          "abbr": "N",
+          "full": "Noting",
+          "inferred": false,
+          "note": null
+        },
+        {
+          "abbr": "N.F.A",
+          "full": "No Further Action",
+          "inferred": false,
+          "note": null
+        },
+        {
+          "abbr": "N.Q",
+          "full": "Naib Qasid",
+          "inferred": false,
+          "note": null
+        },
+        {
+          "abbr": "O/c",
+          "full": "Office Copy",
+          "inferred": false,
+          "note": null
+        },
+        {
+          "abbr": "O/O",
+          "full": "Office Order",
+          "inferred": false,
+          "note": null
+        },
+        {
+          "abbr": "OCR",
+          "full": "Optical Character Recognition",
+          "inferred": true,
+          "note": null
+        },
+        {
+          "abbr": "P.P",
+          "full": "Previous Papers",
+          "inferred": false,
+          "note": null
+        },
+        {
+          "abbr": "P.P.O",
+          "full": "Pension Pay Order",
+          "inferred": false,
+          "note": null
+        },
+        {
+          "abbr": "PER",
+          "full": "Performance Evaluation Report",
+          "inferred": true,
+          "note": null
+        },
+        {
+          "abbr": "PITB",
+          "full": "Punjab Information Technology Board",
+          "inferred": false,
+          "note": null
+        },
+        {
+          "abbr": "PUC",
+          "full": "Paper Under Consideration",
+          "inferred": false,
+          "note": null
+        },
+        {
+          "abbr": "QR (code)",
+          "full": "Quick Response (code)",
+          "inferred": true,
+          "note": null
+        },
+        {
+          "abbr": "RoB",
+          "full": "Rules of Business",
+          "inferred": false,
+          "note": null
+        },
+        {
+          "abbr": "S.C",
+          "full": "Senior Clerk",
+          "inferred": false,
+          "note": null
+        },
+        {
+          "abbr": "S.O",
+          "full": "Section Officer",
+          "inferred": false,
+          "note": null
+        },
+        {
+          "abbr": "Secy.",
+          "full": "Secretary",
+          "inferred": false,
+          "note": null
+        },
+        {
+          "abbr": "SMS",
+          "full": "Short Message Service",
+          "inferred": false,
+          "note": null
+        },
+        {
+          "abbr": "Supdt",
+          "full": "Superintendent",
+          "inferred": false,
+          "note": null
+        },
+        {
+          "abbr": "U.O",
+          "full": "Un-Official (letter)",
+          "inferred": false,
+          "note": null
+        }
+      ]
+    },
+    {
+      "title": "PEEDA Act 2006 & Departmental Inquiries",
+      "topicId": 25,
+      "entries": [
+        {
+          "abbr": "ACE",
+          "full": "Anti-Corruption Establishment",
+          "inferred": true,
+          "note": null
+        },
+        {
+          "abbr": "ACS",
+          "full": "Additional Chief Secretary",
+          "inferred": true,
+          "note": null
+        },
+        {
+          "abbr": "BISE",
+          "full": "Board of Intermediate and Secondary Education",
+          "inferred": true,
+          "note": null
+        },
+        {
+          "abbr": "CA",
+          "full": "Competent Authority",
+          "inferred": true,
+          "note": null
+        },
+        {
+          "abbr": "CCL",
+          "full": "Cabinet Committee on Legislation",
+          "inferred": false,
+          "note": null
+        },
+        {
+          "abbr": "CM",
+          "full": "Chief Minister",
+          "inferred": true,
+          "note": null
+        },
+        {
+          "abbr": "CPC",
+          "full": "Code of Civil Procedure 1908",
+          "inferred": false,
+          "note": null
+        },
+        {
+          "abbr": "CrPC",
+          "full": "Code of Criminal Procedure 1898",
+          "inferred": false,
+          "note": null
+        },
+        {
+          "abbr": "CS",
+          "full": "Chief Secretary",
+          "inferred": true,
+          "note": null
+        },
+        {
+          "abbr": "DR",
+          "full": "Departmental Representative",
+          "inferred": true,
+          "note": null
+        },
+        {
+          "abbr": "DW",
+          "full": "Defence Witness",
+          "inferred": true,
+          "note": null
+        },
+        {
+          "abbr": "E&D (Rules)",
+          "full": "Efficiency & Discipline (Rules)",
+          "inferred": true,
+          "note": null
+        },
+        {
+          "abbr": "ETO",
+          "full": "Electronic Transactions Ordinance 2002",
+          "inferred": true,
+          "note": null
+        },
+        {
+          "abbr": "HO",
+          "full": "Hearing Officer",
+          "inferred": true,
+          "note": null
+        },
+        {
+          "abbr": "IO",
+          "full": "Inquiry Officer",
+          "inferred": true,
+          "note": null
+        },
+        {
+          "abbr": "LHC",
+          "full": "Lahore High Court",
+          "inferred": true,
+          "note": null
+        },
+        {
+          "abbr": "MPDD",
+          "full": "Management & Professional Development Department",
+          "inferred": false,
+          "note": null
+        },
+        {
+          "abbr": "NAB",
+          "full": "National Accountability Bureau",
+          "inferred": true,
+          "note": null
+        },
+        {
+          "abbr": "NAO",
+          "full": "National Accountability Ordinance 1999",
+          "inferred": true,
+          "note": null
+        },
+        {
+          "abbr": "PCSA",
+          "full": "Punjab Civil Servants Act 1974",
+          "inferred": true,
+          "note": null
+        },
+        {
+          "abbr": "PEEDA",
+          "full": "Punjab Employees Efficiency, Discipline and Accountability (Act 2006)",
+          "inferred": false,
+          "note": null
+        },
+        {
+          "abbr": "PFSA",
+          "full": "Punjab Forensic Science Agency",
+          "inferred": true,
+          "note": null
+        },
+        {
+          "abbr": "PMS",
+          "full": "Provincial Management Service",
+          "inferred": false,
+          "note": null
+        },
+        {
+          "abbr": "PODO",
+          "full": "Public Offices (Disqualification) Order (1959)",
+          "inferred": false,
+          "note": null
+        },
+        {
+          "abbr": "PPC",
+          "full": "Pakistan Penal Code 1860",
+          "inferred": false,
+          "note": null
+        },
+        {
+          "abbr": "PRSO",
+          "full": "Punjab Removal from Service (Special Powers) Ordinance 2000",
+          "inferred": false,
+          "note": null
+        },
+        {
+          "abbr": "PSB",
+          "full": "Provincial Selection Board",
+          "inferred": true,
+          "note": null
+        },
+        {
+          "abbr": "PST",
+          "full": "Punjab Service Tribunal",
+          "inferred": true,
+          "note": null
+        },
+        {
+          "abbr": "PW",
+          "full": "Prosecution Witness",
+          "inferred": true,
+          "note": null
+        },
+        {
+          "abbr": "QSO",
+          "full": "Qanun-e-Shahadat Order 1984",
+          "inferred": false,
+          "note": null
+        },
+        {
+          "abbr": "S&GAD",
+          "full": "Services & General Administration Department",
+          "inferred": true,
+          "note": null
+        },
+        {
+          "abbr": "SCN",
+          "full": "Show Cause Notice",
+          "inferred": true,
+          "note": null
+        },
+        {
+          "abbr": "SCP",
+          "full": "Supreme Court of Pakistan",
           "inferred": true,
           "note": null
         }

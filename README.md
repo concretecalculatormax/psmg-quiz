@@ -1,7 +1,8 @@
 # PSMG MCQ Bank
 
-Practice app for the 42nd PSMG Comprehensive Exam: 23 topics × 50 MCQs, built with Next.js (App
-Router) and Tailwind CSS. Questions come from `42nd PSMG Comprehensive Exam — MCQ Bank.pdf`.
+Practice app for the 42nd PSMG Comprehensive Exam: 25 topics × 50 MCQs, built with Next.js (App
+Router) and Tailwind CSS. Questions for topics 1–23 come from `42nd PSMG Comprehensive Exam — MCQ
+Bank.pdf`; topics 24–25 are written by hand in `data/extra-topics.json`.
 
 ## Run it
 
@@ -26,6 +27,10 @@ validates the result (topic count, 50 numbered questions per topic, 4 options ea
 for every question, no broken ligatures) and refuses to write the file if anything is off. When a
 new topic is added to the PDF, update `EXPECTED_TOPICS` in the script.
 
+Topics for presentations that are not in the PDF go in `data/extra-topics.json` (same question
+shape, plus the topic's glossary and the pending-topic name it replaces). The script appends them
+after the PDF topics and runs the same validation, so re-run `npm run extract` after editing it.
+
 ## Features
 
 - **Topic quiz** in practice mode (instant feedback) or exam mode (answers hidden until submit,
@@ -34,7 +39,7 @@ new topic is added to the PDF, update `EXPECTED_TOPICS` in the script.
   score breakdown and recent history.
 - **Review list**: every question answered wrong anywhere stays here until answered right in a
   later run or marked "Got it".
-- **Abbreviations**: searchable glossary of all 500 abbreviations, filterable by topic.
+- **Abbreviations**: searchable glossary of all 572 abbreviations, filterable by topic.
 
 ## Layout
 
@@ -57,7 +62,7 @@ lib/
   quiz-run.ts                     building runs, sampling across topics, scoring
   progress.ts                     per-browser progress in localStorage
   topic-client.ts                 client fetch of /api/questions (cached, with retry)
-scripts/extract_pdf.py            PDF → JSON with validation
+scripts/extract_pdf.py            PDF + extra-topics.json → JSON with validation
 ```
 
 Every page and the per-topic JSON are prerendered at build time. Progress (scores, review list,
